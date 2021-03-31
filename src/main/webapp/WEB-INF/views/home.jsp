@@ -7,6 +7,7 @@
 <body>
 <h1>
 	내 첫 리눅스에서 실행하는 스프링 
+	수정했어 
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
